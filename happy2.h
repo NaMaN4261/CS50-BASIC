@@ -1,0 +1,6 @@
+#ifndef HAPPY2_H_INCLUDED
+#define HAPPY2_H_INCLUDED
+
+
+
+#endif // HAPPY2_H_INCLUDED
